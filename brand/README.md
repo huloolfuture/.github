@@ -10,6 +10,10 @@ The HF monogram: an italic **H** and **F** sharing one stroke, moving from navy 
 | `monogram-light.png` | Monogram on dark backgrounds (transparent). |
 | `wordmark-color.png` / `wordmark-light.png` | "HuloolFuture" wordmark for light / dark backgrounds. |
 
+## Product icons
+
+Products share the family look: a navy rounded square ( → ) with a white shape and a green accent (). AILine uses the HF glyph; Study uses an open book. See .
+
 ## Colors
 
 | Token | Hex | Role |

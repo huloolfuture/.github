@@ -16,17 +16,17 @@ We build software that helps university students in Saudi Arabia plan, study, an
 
 <table>
   <tr>
-    <td width="96" valign="top"><img src="./assets/ailine.png" width="72" height="72" alt="AILine"></td>
-    <td valign="top">
-      <b>AILine</b>&nbsp;&nbsp;<sub>LIVE</sub><br>
+    <td width="112" align="center" valign="middle"><img src="./assets/ailine.png" width="80" height="80" alt="AILine"></td>
+    <td valign="middle">
+      <b>AILine</b>&nbsp;&nbsp;<code>LIVE</code><br>
       The academic companion for Saudi universities. Import a timetable and get a personalised, day-by-day study plan in under a minute.<br>
-      <sub><a href="https://huloolfuture.sa">huloolfuture.sa</a></sub>
+      <a href="https://huloolfuture.sa"><sub>huloolfuture.sa ↗</sub></a>
     </td>
   </tr>
   <tr>
-    <td width="96" valign="top"><img src="./assets/study.png" width="72" height="72" alt="Study"></td>
-    <td valign="top">
-      <b>Study</b>&nbsp;&nbsp;<sub>IN DEVELOPMENT</sub><br>
+    <td width="112" align="center" valign="middle"><img src="./assets/study.png" width="80" height="80" alt="Study"></td>
+    <td valign="middle">
+      <b>Study</b>&nbsp;&nbsp;<code>IN DEVELOPMENT</code><br>
       Interactive courses mapped to each program's official study plan: short lessons, verified questions, flashcards, and a real code editor that runs in the browser.<br>
       <sub>Coming soon</sub>
     </td>
@@ -37,12 +37,24 @@ We build software that helps university students in Saudi Arabia plan, study, an
 
 ### How we build
 
-| | |
-|:--|:--|
-| **Arabic-first** | Interfaces and explanations are written for Arabic readers from day one, not translated afterwards. |
-| **Evidence over opinion** | Every code example and answer in our courses is checked automatically before it ships. |
-| **Private by design** | Student data stays minimal and is handled in line with Saudi Arabia's Personal Data Protection Law (PDPL). |
-| **Calm software** | Fewer, better features. Nothing that competes with a student's attention. |
+<table>
+  <tr>
+    <td width="200"><b>Arabic-first</b></td>
+    <td>Interfaces and explanations are written for Arabic readers from day one, not translated afterwards.</td>
+  </tr>
+  <tr>
+    <td><b>Evidence over opinion</b></td>
+    <td>Every code example and answer in our courses is checked automatically before it ships.</td>
+  </tr>
+  <tr>
+    <td><b>Private by design</b></td>
+    <td>Student data stays minimal and is handled in line with Saudi Arabia's Personal Data Protection Law (PDPL).</td>
+  </tr>
+  <tr>
+    <td><b>Calm software</b></td>
+    <td>Fewer, better features. Nothing that competes with a student's attention.</td>
+  </tr>
+</table>
 
 <br>
 
