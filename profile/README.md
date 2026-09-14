@@ -16,7 +16,7 @@ We build software that helps university students in Saudi Arabia plan, study, an
 
 <table>
   <tr>
-    <td width="112" align="center" valign="middle"><img src="./assets/ailine.png" width="80" height="80" alt="AILine"></td>
+    <td width="112" align="center" valign="middle"><img src="./assets/product-ailine.png" width="80" height="80" alt="AILine"></td>
     <td valign="middle">
       <b>AILine</b>&nbsp;&nbsp;<code>LIVE</code><br>
       The academic companion for Saudi universities. Import a timetable and get a personalised, day-by-day study plan in under a minute.<br>
@@ -24,7 +24,7 @@ We build software that helps university students in Saudi Arabia plan, study, an
     </td>
   </tr>
   <tr>
-    <td width="112" align="center" valign="middle"><img src="./assets/study.png" width="80" height="80" alt="Study"></td>
+    <td width="112" align="center" valign="middle"><img src="./assets/product-study.png" width="80" height="80" alt="Study"></td>
     <td valign="middle">
       <b>Study</b>&nbsp;&nbsp;<code>IN DEVELOPMENT</code><br>
       Interactive courses mapped to each program's official study plan: short lessons, verified questions, flashcards, and a real code editor that runs in the browser.<br>
