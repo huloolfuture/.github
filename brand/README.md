@@ -12,7 +12,7 @@ The HF monogram: an italic **H** and **F** sharing one stroke, moving from navy 
 
 ## Product icons
 
-Products share the family look: a navy rounded square ( → ) with a white shape and a green accent (). AILine uses the HF glyph; Study uses an open book. See .
+Products share the family look: a navy rounded square (`#1D2C4A` → `#101B31`) with a white shape and a green accent (`#38BC64`). AILine uses the HF glyph; Study uses an open book. See `profile/assets/`.
 
 ## Colors
 
