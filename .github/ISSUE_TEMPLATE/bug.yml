@@ -1,0 +1,27 @@
+name: Bug
+description: Something isn't working as expected.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Go to …\n2. Tap …\n3. See …"
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Product, page URL, device and browser.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or logs
